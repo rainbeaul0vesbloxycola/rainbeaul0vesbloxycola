@@ -1,10 +1,12 @@
+#     °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･ °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+
 <div align="center">
 
 <!---->
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=8c3157&center=true&vCenter=true&width=850&height=70&lines=HII!+Special+Delivery!+:3" width="100%" alt="Animated introduction with four rotating messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=be2b81&center=true&vCenter=true&width=850&height=70&lines=HII!+Special+Delivery!+:3" width="100%" alt="Animated introduction with four rotating messages" />
 
 ☆.｡.:* Fav fandoms cuz.. why not?? 👀.｡.:*☆
 
