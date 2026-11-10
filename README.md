@@ -52,4 +52,4 @@
 <img width="576" height="347" alt="Image" src="https://github.com/user-attachments/assets/3b2089fc-8197-4899-a4d9-84c6358ed3c2" />
     
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=922253&center=true&vCenter=true&width=850&height=70&lines=TYSM+for+ur+attention!+^^" width="100%" alt="Animated introduction with four rotating messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=b22c84&center=true&vCenter=true&width=850&height=70&lines=TYSM+for+ur+attention!+^^" width="100%" alt="Animated introduction with four rotating messages" />
